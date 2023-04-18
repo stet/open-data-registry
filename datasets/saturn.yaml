@@ -1,0 +1,21 @@
+Name: Satorare
+Description: Registry for Sat Serial Numbers according to Ordinal Theory
+Documentation: "See [satorare.org](https://satorare)."
+Contact: github.com/satorare-registry
+ManagedBy: "[@sull](http://twitter.com/sull)"
+UpdateFrequency: "Unknown at this time."
+Tags:
+  - Bitcoin
+  - Ordinals
+  - Inscriptions
+  - Digital Artifacts
+  - Sats
+  - Serial Numbers
+License: "Public Domain"
+Resources:
+  - Description: SATURN.
+    ARN: urn:sat:ord:::satorare
+    Region: us-east-2
+    Type: S3 Bucket
+    Explore:
+    - '[Browse Bucket](https://satorare.s3.amazonaws.com/index.html)'
